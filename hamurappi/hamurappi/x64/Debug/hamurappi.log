@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(53,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(112,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(154,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(351,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(423,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(511,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(809,37): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programming\итмо\cards\hamurappi\hamurappi\Source.cpp(831,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hamurappi.vcxproj -> D:\Programming\итмо\cards\hamurappi\x64\Debug\hamurappi.exe
